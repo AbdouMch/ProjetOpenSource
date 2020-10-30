@@ -71,6 +71,7 @@ body {
 }
 
 .cagnotte-header{
-    background-color: blue;
+    width: 200px;
+    background-color: red;
     border-radius: 5px;
 }
