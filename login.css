@@ -71,6 +71,10 @@ body {
 }
 
 .cagnotte-header{
+<<<<<<< HEAD
+=======
+    width: 200px;
+>>>>>>> abdou
     background-color: red;
     border-radius: 5px;
 }
