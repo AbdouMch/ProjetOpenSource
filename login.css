@@ -64,6 +64,13 @@ body {
 }
 
 .cagnotte{
+    width: auto;
+    border-radius: 5px;
     color : black;
     text-align: center;
+}
+
+.cagnotte-header{
+    background-color: blue;
+    border-radius: 5px;
 }
